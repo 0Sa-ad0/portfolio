@@ -1,5 +1,11 @@
 /* appling google font over the website  */
 
+.embed-responsive {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }  
+
 .languages {
     font-family: Arial, sans-serif;
     margin: 20px;
